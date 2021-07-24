@@ -1,5 +1,5 @@
 # bicho-chat-app
 This is the bicho chat app
 
-This is for demostration
-Siiiuuu 
+## Description
+This is a project for educational purposes
